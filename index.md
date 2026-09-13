@@ -1,14 +1,14 @@
-# Privacy Policy - Kon-Ko
+# Privacy Policy - Kon-Ko!
 
 **Last Updated: September 2026**
 
 ## 1. Introduction
 
-Welcome to Kon-Ko ("the App"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we handle information in connection with our mobile application.
+Welcome to Kon-Ko! ("the App"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we handle information in connection with our mobile application.
 
 ## 2. Information We Collect
 
-Kon-Ko is a game application that does not collect any personal user data. The App is designed to provide entertainment without requiring personal information from users.
+Kon-Ko! is a game application that does not collect any personal user data. The App is designed to provide entertainment without requiring personal information from users.
 
 ## 3. Third-Party Services
 
@@ -16,7 +16,7 @@ Our App uses Google AdMob to display advertisements. Google AdMob may collect li
 
 ## 4. Data We Do NOT Collect
 
-Kon-Ko does not collect, store, or transmit:
+Kon-Ko! does not collect, store, or transmit:
 
 - Personal identification information
 - Device identifiers or IMEI numbers
@@ -27,7 +27,7 @@ Kon-Ko does not collect, store, or transmit:
 
 ## 5. Permissions
 
-Kon-Ko may request certain device permissions necessary for the game to function properly. These permissions are used solely for gameplay purposes and no data is collected or shared.
+Kon-Ko! may request certain device permissions necessary for the game to function properly. These permissions are used solely for gameplay purposes and no data is collected or shared.
 
 ## 6. Security
 
@@ -35,7 +35,7 @@ We take the security of our users seriously. While we do not collect personal da
 
 ## 7. Children's Privacy
 
-Kon-Ko does not knowingly collect personal information from children under 13 years of age. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information and terminate the child's account.
+Kon-Ko! does not knowingly collect personal information from children under 13 years of age. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information and terminate the child's account.
 
 ## 8. Changes to This Privacy Policy
 
@@ -47,4 +47,4 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 
 ---
 
-© 2026 Kon-Ko. All rights reserved.
+© 2026 Kon-Ko!. All rights reserved.
